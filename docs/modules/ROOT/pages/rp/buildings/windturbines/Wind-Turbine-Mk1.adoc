@@ -2,7 +2,7 @@
 
 ## Building Information
 
-Can Generate power from 10MW-30MW depending on the height. If more than 1 turbine is in its range it will produce less. Maxes out at 4 turbines and generates no power at all.
+Can Generate power from 10MW-30MW depending on the height. [Equations?] If more than 1 turbine is in its range it will produce less. Maxes out at 4 turbines and generates no power at all.
 
 Mk1 wind turbine is renewable power for your factory that needs no input of items.
 
